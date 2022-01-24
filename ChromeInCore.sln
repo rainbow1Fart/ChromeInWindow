@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChromeInCore", "ChromeInCore.csproj", "{55F2829F-15CC-40E2-BE0D-DE0C07CFC119}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55F2829F-15CC-40E2-BE0D-DE0C07CFC119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55F2829F-15CC-40E2-BE0D-DE0C07CFC119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55F2829F-15CC-40E2-BE0D-DE0C07CFC119}.Debug|x86.ActiveCfg = Debug|x86
+		{55F2829F-15CC-40E2-BE0D-DE0C07CFC119}.Debug|x86.Build.0 = Debug|x86
+		{55F2829F-15CC-40E2-BE0D-DE0C07CFC119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55F2829F-15CC-40E2-BE0D-DE0C07CFC119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55F2829F-15CC-40E2-BE0D-DE0C07CFC119}.Release|x86.ActiveCfg = Release|x86
+		{55F2829F-15CC-40E2-BE0D-DE0C07CFC119}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01D315AF-366F-4673-BFC9-4718DFBFC5D7}
+	EndGlobalSection
+EndGlobal
